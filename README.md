@@ -1,4 +1,5 @@
 # Word-counter,单词统计 C,C++ languages
+单词统计,word count----c,c++
 Simple school project using list and linked list, takes txt file as an input and then prints number of every word and put the result in to another file .
 
 This is my second year data strcuture class project.
